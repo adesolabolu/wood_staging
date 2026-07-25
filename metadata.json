@@ -1,0 +1,8 @@
+{
+  "name": "woodworking-staging",
+  "description": "A woodwork craftsmanship and portfolio website featuring smooth transitions, bento-grid galleries, and modern typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
